@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = '';
+const apiUrl = 'https://eu-de.functions.appdomain.cloud/api/v1/web/organizationMine_sentiment-analyzer/guestbook';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
